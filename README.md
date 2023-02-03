@@ -16,7 +16,7 @@
 
 ## 👀 About Me 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on learning Machine Learning
 - 🌱 I’m currently learning **React.js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 😄 Pronouns: **She/her**
